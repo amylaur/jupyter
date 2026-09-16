@@ -50,7 +50,7 @@ py src/clean_data.py
 
 Working from the tidy long/wide CSVs:
 
-1. **Dogs seized per year** — the headline "how many strays came in" trend.
+1. **Dogs seized per year by category** — the headline "how many strays came in" trend.
 2. **Seasonality** — a year×month heatmap and an average-by-month line
    chart, to see which months are consistently busiest.
 
